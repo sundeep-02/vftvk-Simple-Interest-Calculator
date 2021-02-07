@@ -29,5 +29,5 @@ function compute()
 
 function updateValue(val) 
 {
-    document.getElementById("span").textContent=val + "%";
+    document.getElementById("span").textContent = val + "%";
 }
